@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">500pxTesting</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
